@@ -6,4 +6,4 @@ dashboard 2 link - https://public.tableau.com/views/Dashboard2_16974418486250/Da
 
 story link - https://public.tableau.com/views/Story_16974419211350/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-video demonstration link -https://drive.google.com/uc?id=1kk0xY6qr4i1-URKhuhIcjLrOeILbb_Zz&export=download
+video demonstration link -https://drive.google.com/file/d/1kk0xY6qr4i1-URKhuhIcjLrOeILbb_Zz/view?usp=drivesdk
